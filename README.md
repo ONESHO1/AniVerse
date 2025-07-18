@@ -1,12 +1,18 @@
-# React + Vite
+# 🌌 AniVerse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AniVerse is a simple anime discovery website where you can browse popular anime and search for your favorite titles. It's built as a learning project while exploring React and modern frontend tools.
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React + Vite  
+- TailwindCSS for styling  
+- AniList GraphQL API for anime data  
 
-## Expanding the ESLint configuration
+## Features (Will Add more ... Hopefully)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- View trending/popular anime  
+- Search for anime titles  
+
+## Notes
+
+This project is a work in progress and will be updated as I learn more.
